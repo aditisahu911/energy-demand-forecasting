@@ -1,5 +1,7 @@
 # Time Series Forecasting with ARIMA: Electricity Load and Solar Generation Analysis
 
+![Example Image](Time-Series-Data-Analysis-Forecasting-and-Libraries-.webp)
+
 ## Overview
 
 This repository contains the complete workflow for analyzing and forecasting electricity load (`IT_load_new`) and solar generation (`IT_solar_generation`) time series data for the year 2016 using ARIMA models.
