@@ -72,7 +72,7 @@ The script will process the data, fit ARIMA models, and produce plots comparing 
 
 ## Contact
 
-For questions or collaboration inquiries, please reach out at aditisahu24@iitk.ac.in.
+For questions or inquiries, please reach out at aditisahu24@iitk.ac.in.
 
 ---
 
